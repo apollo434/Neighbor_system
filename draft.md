@@ -33,3 +33,17 @@ ARP/ND protocol in networking stack:
 
 
 ![Alt text](/pic/Deal.png)
+
+### 1.5 Neighbor Status and NUD
+
+![Alt text](/pic/L3_l2.png)
+
+![Alt text](/pic/L3_L2_Map.png)
+
+NUD:There are two way to identify if destination is reachable,
+1. L4 Identification
+2. Solicitation acknowledge
+
+### 1.6 NUD status transforming
+
+![Alt text](/pic/NUD.png)
